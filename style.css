@@ -679,6 +679,17 @@ a {
 p {
     font-size: 12px;
 }
+.title{
+  font-size:18px;
+  max-width: 800px;
+  margin:auto;
+}
+.title-span{
+  font-size:13px;
+}
+.lettre{
+  text-transform: uppercase;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
