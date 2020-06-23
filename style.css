@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #3E3D3D;
 }
 
 .d-bloc button:hover {
@@ -712,7 +712,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 40px  auto;
 }
 
 h2 {
