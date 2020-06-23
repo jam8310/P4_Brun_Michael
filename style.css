@@ -1031,7 +1031,10 @@ h1 {
         height: 320px;
     }
 }
-
+.row{
+  margin-right: auto!important;
+  margin-left: auto!important;
+}
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
