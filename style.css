@@ -1036,11 +1036,16 @@ h1 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+        text-align
     }
 }
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    #bloc-8 .col-sm-4{
+      width: 250px;
+      margin: 0 auto;
     }
 }
