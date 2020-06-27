@@ -18,7 +18,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+img{
+    object-fit: contain;
+    }
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
