@@ -33,8 +33,7 @@ a:hover {
     clear: both;
     background: 50% 50% no-repeat;
     padding: 0 50px;
-    -o-background-size: cover;
-    background-size: cover;
+    background-size: cover!important;
     position: relative;
 }
 
