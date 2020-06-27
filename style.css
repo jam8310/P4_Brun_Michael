@@ -65,7 +65,7 @@ a:hover {
 .bg-br-edge,
 .bg-repeat {
 
-    background-size: auto!important;
+    background-size: auto;
 }
 
 .bg-repeat {
